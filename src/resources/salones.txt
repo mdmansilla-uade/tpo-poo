@@ -1,0 +1,4 @@
+SalonLP;200;Av 7 101 La Plata
+SalaCB;100;Av Cantilo 210 City Bell
+SalaVE;150;Av Arana 310 Villa Elisa
+SalaGO;300;Cno Centenario 310 Gonnet

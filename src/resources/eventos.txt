@@ -1,0 +1,7 @@
+25062025-SalaVE;Wed Jun 25 00:00:00 GMT-03:00 2025;SalaVE;[];asd
+25062025-SalaGO;Wed Jun 25 00:00:00 GMT-03:00 2025;SalaGO;[Marcelo Mansilla];asdfsaf
+30062025-SalonLP;Mon Jun 30 00:00:00 GMT-03:00 2025;SalonLP;[];ee
+27062025-SalaVE;Fri Jun 27 00:00:00 GMT-03:00 2025;SalaVE;[];villaaa elisa
+30062025-SalaVE;Mon Jun 30 00:00:00 GMT-03:00 2025;SalaVE;[];asdfasf
+29062025-SalonLP;Sun Jun 29 00:00:00 GMT-03:00 2025;SalonLP;[];asdda
+30062025-SalaCB;Mon Jun 30 00:00:00 GMT-03:00 2025;SalaCB;[];adadd
